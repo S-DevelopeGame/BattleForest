@@ -17,4 +17,4 @@
   למעבר להסבר מפורט על המשחק: 
   [לחץ כאן](https://github.com/S-DevelopeGame/BattleForest/wiki)
 </div>
-![1](https://user-images.githubusercontent.com/58264273/138924842-6f34f1cf-0997-4c7b-b291-abaa43453a28.png)
+
